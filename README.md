@@ -8,29 +8,6 @@
 - 💬 Ask me about music
 - 📫 How to reach me: rebeccaolivia1601@gmail.com
 
-## Education
-
-#### 1. [Bangkit Academy By Google, GoTo, Tokopedia, Traveloka](https://grow.google/intl/id_id/bangkit/?tab=machine-learning) - Machine Learning Cohort, Lampung 'Feb 2024-Now'
-     
-#### 2. [Institut Teknologi Sumatera](https://www.itera.ac.id/) - Mathematics Student, Lampung 'Aug 2021-Now'
-   - Basic Mathematics Tutorial Assistant 1B 
-   - Mathematics III Course Tutor 
-   - Basic Mathematics Tutorial Assistant 2B 
-   - Basic Mathematics Tutorial Assistant 1B 
-   - Basic Mathematics Tutorial Assistant 2A 
-   - Assistant for Computational and Mathematical Simulation Practicum
-     
-## Work Experience
-
-#### 1. [I Am Polygot](https://www.linkedin.com/company/i-am-polyglot/posts/?feedView=all) - Class Assistant, Lampung 'Feb - May 2024'
-   - Manage online learning classroom by facilitating discussions, tracking attendance & grades, and reminding everyone of schedules & deadlines
-
-#### 2. [Bagiin Buku](https://www.linkedin.com/company/bagiin-buku/?originalSubdomain=id) - Broadcaster, Surabaya 'Sep 2021'
-   - Being a Broadcaster at a fundraising campaign for BJ. Habibie Orphanage, Surabaya
-
-#### 3. [PT. Radio Pelita Kasih](https://www.radiopelitakasih.com/) -  Radio Announcer, Jakarta 'Dec 2014'
-   - Little Radio Announcer with the program name VOTE (Voice Of Teens) on channel 96.3 RPK FM Jakarta
-
 
 ## Language and Tools:
 [<img align="left" alt="Microsoft Office" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Office_2013-2019_logo_and_wordmark.svg" style="padding-right:15px;" />](https://www.microsoft.com/id-id/microsoft-365/microsoft-office)

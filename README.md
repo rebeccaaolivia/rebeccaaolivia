@@ -36,6 +36,8 @@
 <img align="left" alt="Excel" width="30px" src="https://play-lh.googleusercontent.com/37EzETO6gZyKmCg2kBIFX1e9gkubxZrVa5fHJ6yOaa7VvEShHjKv2RdtwnZt9Sk258s=w480-h960-rw" style="padding-right:10px;" />
 <img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" style="padding-right:10px;" />
 <img align="left" alt="R" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" style="padding-right:10px;" />
+[<img align="left" alt="Microsoft Office" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Office_2013-2019_logo_and_wordmark.svg" style="padding-right:10px;" />](https://www.microsoft.com/id-id/microsoft-365/microsoft-office)
+
 
 -------
 

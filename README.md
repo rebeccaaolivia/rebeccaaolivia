@@ -26,8 +26,8 @@
     <img alt="Google Colab" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="http://www.flowgorithm.org/">
-    <img alt="Flowgorithm" width="38px" src="https://i.ibb.co/Z1m8vsm/flowgorithm.png" />
-  </a>&nbsp;&nbsp;&nbsp;
+  <img alt="Flowgorithm" width="38px" src="https://i.ibb.co/tCxHvXd/flowgorithm-logo.png" />
+  </a>
   <a href="https://www.python.org/">
     <img alt="Python" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
   </a>
